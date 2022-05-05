@@ -1,0 +1,24 @@
+.footer li {
+  display: inline-block;
+  font-size: xx-large;
+  letter-spacing: 15px;
+}
+
+.footer ul {
+  text-align: center;
+  padding: 55px;
+  padding-bottom: 2px;
+}
+
+.footer {
+  background-color: #2C2B2B;
+  height: 200px;
+}
+
+.footer i {
+  color: #1CDD87;
+}
+
+.footer p {
+  text-align: center;
+}

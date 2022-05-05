@@ -1,0 +1,14 @@
+.container {
+color: white;
+
+}
+
+.container p {
+  opacity: .4;
+  margin-bottom: 32px;
+}
+
+.container h2 {
+  color: black;
+  text-align: center;
+}
